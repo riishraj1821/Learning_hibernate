@@ -1,0 +1,5 @@
+package revise_of_hibernate.entity;
+
+public class Users {
+
+}

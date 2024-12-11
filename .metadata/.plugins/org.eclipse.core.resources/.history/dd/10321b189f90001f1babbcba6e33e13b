@@ -1,0 +1,5 @@
+package setting_up.entites;
+
+public class User {
+
+}

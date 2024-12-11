@@ -1,0 +1,29 @@
+package revise_of_hibernate.entity;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity(name="users")
+@Table(name="users")
+public class Users {
+	
+	@Id
+	@Column(name="user_id")
+	int userid;
+	
+	@Column(name="username")
+	String userName;
+	
+	@Column(name="password")
+	String password;
+	
+	@Column(name="firstname")
+	String firstName;
+	
+	@Column(name="lastname")
+	String lastName;
+	
+	
+}

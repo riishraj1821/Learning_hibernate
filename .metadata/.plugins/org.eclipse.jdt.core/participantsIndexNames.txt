@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\Learning-Hivernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\234408947.index
+\listing\src\main\java
+D:\Learning-Hivernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1068508416.index
+\revise_of_hibernate\src\main\resources

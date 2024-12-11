@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="setting_up">
+        <property name="context-root" value="setting_up"/>
+        <property name="java-output-path" value="/setting_up/target/classes"/>
+    </wb-module>
+</project-modules>

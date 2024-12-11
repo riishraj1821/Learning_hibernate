@@ -1,0 +1,9 @@
+package revise_of_hibernate.entity;
+
+public class Users {
+	int userid;
+	String userName;
+	String password;
+	String firstName;
+	String lastName;
+}

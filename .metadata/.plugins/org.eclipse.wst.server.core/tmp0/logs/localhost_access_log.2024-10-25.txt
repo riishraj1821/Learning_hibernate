@@ -1,0 +1,3 @@
+127.0.0.1 - - [25/Oct/2024:19:24:55 +0530] "GET / HTTP/1.1" 404 755
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:19:24:56 +0530] "GET /revise_of_hibernate/WEB-INF/classes/revise_of_hibernate/App.java HTTP/1.1" 404 686
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:19:24:57 +0530] "GET /favicon.ico HTTP/1.1" 404 766
